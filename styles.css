@@ -7,3 +7,546 @@ body {
     justify-content: center;
     margin: 0;
 }
+.principal{
+    background-color: #053254;
+    display: flex;
+    height: 2500px;
+    width: 1500px;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
+    color:#ECEBE6;
+}
+.fila1{
+    width: 635px;
+    display: flex;
+    height: auto;
+   
+    height: 2000px;
+    flex-wrap: wrap;
+ 
+}
+.fila2{
+    width: 0px;
+    display: flex;
+ 
+    height: 2500px;
+    top: 200px;
+    border-left: dashed 2px white;
+    margin: 0 2.5em;
+   
+}
+.fila3{
+    width: 635px;
+    display: flex;
+
+    height: 2000px;
+    flex-wrap: wrap;
+  
+}
+
+.receta1{
+    height: 300px;
+    width: 635px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.plato1{
+    display: flex;
+    height: 300px;
+    width: 635px;
+  
+
+}
+.plato2{
+    display: flex;
+    height: 300px;
+    width: 635px;
+   
+
+}
+
+.plato1-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+   
+    margin: 10px;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+.plato1-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.receta2{
+    height: 300px;
+    width: 635px;
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.plato2-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+   
+
+
+}
+.plato2-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.receta3{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato3{
+    display: flex;
+    height: 300px;
+    width: 635px;
+   
+   
+
+}
+.plato4{
+    display: flex;
+    height: 300px;
+    width: 635px;
+    
+
+}
+
+.plato3-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+
+}
+.plato3-2{
+    height: 300px;
+    width: 317px;
+display: flex;
+flex-wrap: wrap;
+
+justify-content: center;
+text-align: center;
+
+
+}
+.receta4{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+
+.plato4-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato4-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+
+.receta5{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato5{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+
+}
+.plato6{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+
+}
+
+.plato5-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+  
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato5-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.receta6{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+
+.plato6-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    
+
+
+}
+.plato6-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+.receta7{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato7{
+    display: flex;
+    height: 300px;
+    width: 635px;
+    
+
+}
+.plato8{
+    display: flex;
+    height: 300px;
+    width: 635px;
+   
+
+}
+
+.plato7-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+   
+
+
+}
+.plato7-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+.receta8{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato8-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+  
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato8-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.plato9{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+
+}
+.plato10{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+}
+
+.plato9-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato9-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+
+.plato10-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+}
+.plato10-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+.receta9{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.receta10{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato11{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+
+}
+.plato12{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+
+}
+
+.plato11-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+   
+
+
+}
+.plato11-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.plato12-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato12-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+}
+.receta11{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.receta12{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato13{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+}
+.plato14{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+}
+.receta13{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.receta14{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato13-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.plato13-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+}
+
+.plato14-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.plato14-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.receta15{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.receta16{
+    height: 300px;
+    width: 635px;
+    display: flex;
+
+}
+.plato15{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+}
+.plato16{
+    display: flex;
+    height: 300px;
+    width: 635px;
+
+}
+
+.plato15-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.plato15-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+.plato16-1{
+    height: 300px;
+    width: 317px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+
+
+}
+.plato16-2{
+    height: 300px;
+    width: 317px;
+    display: flex;
+
+
+}
+.img{
+    width: auto;
+}
