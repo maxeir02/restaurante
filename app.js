@@ -1,9 +1,9 @@
 // Enlaces específicos para cada receta
 const enlacesRecetas = {
-    'plato1-1': 'https://www.receta1.com',
-    'plato3-2': 'https://www.receta2.com',
-    'plato5-1': 'https://www.receta3.com',
-    'plato7-2': 'https://www.receta4.com',
+    'plato1-1': 'receta1.html',
+    'plato3-2': 'receta2.html',
+    'plato5-1': 'receta3.html',
+    'plato7-2': 'receta4.html',
   };
 
   // Función para mostrar detalles adicionales al hacer clic en una receta, limitando a un clic
